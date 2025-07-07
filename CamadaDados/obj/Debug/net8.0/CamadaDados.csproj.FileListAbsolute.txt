@@ -1,0 +1,12 @@
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\bin\Debug\net8.0\CamadaDados.deps.json
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\bin\Debug\net8.0\CamadaDados.dll
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\bin\Debug\net8.0\CamadaDados.pdb
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.dll
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\refint\CamadaDados.dll
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\CamadaDados.pdb
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\CamadaDados\obj\Debug\net8.0\ref\CamadaDados.dll

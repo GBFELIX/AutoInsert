@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDados", "CamadaDados\CamadaDados.csproj", "{D7ECCF82-02AB-4EAB-B00F-68DA3A6D21DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{76C997CF-27E7-4931-829C-1802B4FF323F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7ECCF82-02AB-4EAB-B00F-68DA3A6D21DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7ECCF82-02AB-4EAB-B00F-68DA3A6D21DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7ECCF82-02AB-4EAB-B00F-68DA3A6D21DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7ECCF82-02AB-4EAB-B00F-68DA3A6D21DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C997CF-27E7-4931-829C-1802B4FF323F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C997CF-27E7-4931-829C-1802B4FF323F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C997CF-27E7-4931-829C-1802B4FF323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C997CF-27E7-4931-829C-1802B4FF323F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0121CCE1-FD83-4DDE-B07F-55A26A35A009}
+	EndGlobalSection
+EndGlobal
