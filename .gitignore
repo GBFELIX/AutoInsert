@@ -1,1 +1,45 @@
-.vs
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.vsp
+*.vspscc
+*.vssscc
+
+# Visual Studio files
+.vscode/
+.vs/
+
+# Auto-generated files
+*.log
+*.tlog
+*.cache
+*.pdb
+*.dll
+*.exe
+*.app
+
+# Publish output
+publish/
+*.Publish.xml
+
+# Rider files
+.idea/
+
+# ASP.NET temporary files
+wwwroot/lib/
+wwwroot/packages/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Node.js dependencies (if
