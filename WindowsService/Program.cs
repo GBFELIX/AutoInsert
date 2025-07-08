@@ -1,12 +1,11 @@
 using WindowsService;
 
-IHostBuilder builder = Host.CreateDefaultBuilder(args)
-    .ConfigureServices((hostContext, services) =>
+IHost host = Host.CreateDefaultBuilder(args)
+    .ConfigureServices(services =>
     {
         services.AddHostedService<Worker>();
-    });
+    })
+    .Build();
 
-var host = builder.Build();
-
-await host.RunAsync(); 
+await host.RunAsync();
 

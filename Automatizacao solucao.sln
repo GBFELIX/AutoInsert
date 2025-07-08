@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDados", "CamadaDados\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{76C997CF-27E7-4931-829C-1802B4FF323F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDados.Test", "CamadaDados.Test\CamadaDados.Test.csproj", "{A2FF780D-D05E-4395-811E-A74EC3BAFCCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76C997CF-27E7-4931-829C-1802B4FF323F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C997CF-27E7-4931-829C-1802B4FF323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C997CF-27E7-4931-829C-1802B4FF323F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FF780D-D05E-4395-811E-A74EC3BAFCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FF780D-D05E-4395-811E-A74EC3BAFCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FF780D-D05E-4395-811E-A74EC3BAFCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FF780D-D05E-4395-811E-A74EC3BAFCCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

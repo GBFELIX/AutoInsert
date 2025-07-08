@@ -55,3 +55,4 @@ C:\Users\T-GAMER\source\repos\Automatizacao solucao\WindowsService\obj\Debug\net
 C:\Users\T-GAMER\source\repos\Automatizacao solucao\WindowsService\obj\Debug\net8.0\WindowsService.pdb
 C:\Users\T-GAMER\source\repos\Automatizacao solucao\WindowsService\obj\Debug\net8.0\WindowsService.genruntimeconfig.cache
 C:\Users\T-GAMER\source\repos\Automatizacao solucao\WindowsService\obj\Debug\net8.0\ref\WindowsService.dll
+C:\Users\T-GAMER\source\repos\Automatizacao solucao\WindowsService\obj\Debug\net8.0\WindowsService.sourcelink.json
